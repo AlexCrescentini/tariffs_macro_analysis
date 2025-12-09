@@ -10,9 +10,9 @@ This work has been presented at leading institutions, including the **[European 
 
 This repository mirrors the project workflow, organized into three main steps:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**1. Data Preparation** ([`data/`](data)) — *Python code provided in this repository*  
-&nbsp;&nbsp;&nbsp;&nbsp;**2. Model Simulation** ([`model/`](model)) — *MATLAB code not shared (the model is not yet published)*  
-&nbsp;&nbsp;&nbsp;&nbsp;**3. Policy Analysis** ([`policy/`](policy)) — *Python code provided in this repository*  
+1. **Data Preparation** ([`data/`](data)) — *Python code provided in this repository*  
+2. **Model Simulation** ([`model/`](model)) — *MATLAB code not shared (the model is not yet published)*  
+3. **Policy Analysis** ([`policy/`](policy)) — *Python code provided in this repository*  
 
 For steps 1 and 3, Jupyter notebooks are available at:
 
